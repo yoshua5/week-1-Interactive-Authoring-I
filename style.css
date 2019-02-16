@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Nova+Script');
+
+
+body {
+    background-color: darkblue;
+    margin-top: 75px;
+}
+
+h1 {
+    font-size: 72pt;
+    margin: 0px;
+    padding: 0px;
+    line-height: 30px;
+    font-family: kari-display-pro, sans-serif;
+    text-shadow: 100px 8px 8px #010101;
+    
+    font-weight: 400;
+    font-style: italic;
+    color: orange;
+}
+
+h2 {
+    font-family: 'Nova Script', cursive;
+    font-size: 100pt;
+    margin: 0px;
+    padding: 0px;
+    line-height: 111px;
+    text-shadow: 7px 7px 8px #000000;
+    color: yellow;
+}
+
+header {
+    text-align: center;
+    
+}
